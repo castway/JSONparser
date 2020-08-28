@@ -1,0 +1,7 @@
+# Ignore any test files created
+
+*.json
+
+#Ignore maven target folder
+
+/target/
